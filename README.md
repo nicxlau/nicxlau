@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Nicolau</h1>
-<h3 align="center">A Web Developer. DevOps enthusiast and security researcher</h3>
+<h3 align="center">A Web Developer. DevOps enthusiast and security researcher.</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nicolauns" alt="nicolauns" /></p>
 
 <a href="https://github.com/nicolauns" target="_blank"><img align="right" src="thoughtful.svg" width="350"/></a>
