@@ -9,7 +9,7 @@
 - 💬 Ask me about **PHP, Laravel, Vue.js, JavaScript, HTML, CSS, SQL**
 
 - 📫 How to reach me **lucas@octha.com**
---
+
 <h3 align="left">My social medias:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolauns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicolauns" height="35" width="35" /></a>
