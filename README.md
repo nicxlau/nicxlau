@@ -12,20 +12,20 @@
 
 <h3 align="left">My social medias:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicolauns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicolauns" height="35" width="35" /></a>
-<a href="https://fb.com/nicolauns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nicolauns" height="35" width="35" /></a>
-<a href="https://instagram.com/nicolauns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nicolauns" height="35" width="35" /></a>
-<a href="https://twitter.com/fedhrm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fedhrm" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/nicolauns" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicolauns" /></a>
+<a href="https://twitter.com/fedhrm" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="fedhrm" /></a>
+<a href="https://instagram.com/nicolauns" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nicolauns" /></a>
+<a href="https://fb.com/nicolauns" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="nicolauns" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://github.com/topics/php" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35"/></a>
 <a href="https://github.com/topics/laravel" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="35" height="35"/></a>
+<a href="https://github.com/topics/heroku" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="35" height="35"/></a>
+<a href="https://github.com/topics/git" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/></a>
 <a href="https://github.com/topics/vue" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue.js" width="35" height="35"/></a>
 <a href="https://github.com/topics/javascript" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
-<a href="https://github.com/topics/git" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/></a>
-<a href="https://github.com/topics/heroku" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="35" height="35"/></a>
 <a href="https://github.com/topics/bootstrap" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/></a>
 <a href="https://github.com/topics/tailwind" target="blank"><img src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" alt="tailwind" width="35" height="35"/></a>
 <a href="https://github.com/topics/figma" target="blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/></a>
@@ -43,18 +43,3 @@
 <h3 align="left">Repositories you might like:</h3>
 
 [![Attla framework](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=attla)](https://github.com/attla/attla)
-
-<!--
-**nicolauns/nicolauns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
