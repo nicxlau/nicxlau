@@ -4,7 +4,7 @@
 
 <a href="https://github.com/nicolauns" target="_blank"><img align="right" src="thoughtful.svg" width="350"/></a>
 
-- 🔭 I’m currently working on [Attla](https://github.com/attla), but I'm also available for freelance projects.
+- 🔭 I’m currently building [the Attla framework](https://github.com/attla) and [Octha ecosystem](https://octha.com).
 
 - 💬 Ask me about **PHP, Laravel, Vue.js, JavaScript, HTML, CSS, SQL**
 
