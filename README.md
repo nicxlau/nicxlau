@@ -32,8 +32,8 @@
 <a href="https://github.com/topics/html5" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></a>
 </p>
 
-<h3 align="left">Statistics:</h3>
 <p align="left">
+<h3 align="left">Statistics:</h3>
 <a href="https://github.com/nicolauns" target="blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=nicolauns&theme=github-light&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nicolauns github statistics"/></a><br>
 <a href="https://github.com/nicolauns?tab=repositories" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=nicolauns&show_icons=true&count_private=true&include_all_commits=true" alt="nicolauns github statistics"/></a><br>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolauns&show_icons=true&layout=compact&hide=html" alt="nicolauns github top langs" /><br>-->
