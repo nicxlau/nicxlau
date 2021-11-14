@@ -43,3 +43,4 @@
 <h3 align="left">Repositories you might like:</h3>
 
 [![Attla framework](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=attla)](https://github.com/attla/attla)
+[![Attla ULID](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=ulid)](https://github.com/attla/ulid)
