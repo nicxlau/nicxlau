@@ -44,3 +44,6 @@
 [![Attla ULID](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=ulid&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/ulid)
 [![Joth jquery](https://github-readme-stats.vercel.app/api/pin/?username=octhahq&repo=joth-jquery&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/octhahq/joth-jquery)
 [![Attla disposable](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=disposable&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/disposable)
+[![Laravel HTML minify](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=laravel-html-minify&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/laravel-html-minify)
+
+
