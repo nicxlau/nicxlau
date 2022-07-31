@@ -40,7 +40,8 @@
 
 <h3 align="left">Repositories you might like:</h3>
 
-[![Attla framework](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=core&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/core)
+[![Data token](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=data-token&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/data-token)
+[![Encoded attributes](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=encoded-attributes&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/encoded-attributes)
 [![Attla ULID](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=ulid&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/ulid)
 [![Joth jquery](https://github-readme-stats.vercel.app/api/pin/?username=octhahq&repo=joth-jquery&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/octhahq/joth-jquery)
 [![Attla disposable](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=disposable&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/disposable)
