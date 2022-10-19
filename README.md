@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Jquery, JavaScript, HTML, CSS, SQL**
 
-- 📫 How to reach me **lucas@octha.com**
+- 📫 How to reach me **nicolau@octha.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
