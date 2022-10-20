@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="hi.gif" width="30">, I'm Nicolau</h1>
 <h3 align="center">A Web Developer. DevOps enthusiast and security researcher.</h3>
-<p align="left" hidden="true"><img src="https://komarev.com/ghpvc/?username=nicxlau" alt="nicxlau" /></p>
+<p align="left" hidden="true"><img src="https://komarev.com/ghpvc/?username=nicolauns" alt="nicxlau" /></p>
 
 <p align="left">
   <a href="https://linkedin.com/in/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicxlau" /></a>
