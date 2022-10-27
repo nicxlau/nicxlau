@@ -1,12 +1,10 @@
-<h1 align="center">Hi there <img src="hi.gif" width="30">, I'm Nicolau</h1>
-<h3 align="center">A Web Developer. DevOps enthusiast and security researcher.</h3>
-<p align="left" hidden="true"><img src="https://komarev.com/ghpvc/?username=nicolauns" alt="nicxlau" /></p>
+<h1 align="center">Hi there <img src="hi.gif" width="30">, I'm Nicolau <img align="right" src="https://komarev.com/ghpvc/?username=nicolauns" alt="nicxlau" /></h1>
+<h3 align="center">A Web Developer. Open-source enthusiast and security researcher.</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicxlau" /></a>
-  <a href="https://twitter.com/fedhrm" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="fedhrm" /></a>
+  <a href="https://twitter.com/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nicxlau" /></a>
   <a href="https://instagram.com/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nicxlau" /></a>
-  <!--<a href="https://fb.com/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="nicxlau" /></a>-->
 </p>
 
 <a href="https://github.com/nicxlau" target="_blank"><img align="right" src="thoughtful.svg" width="320"/></a>
@@ -46,5 +44,3 @@
 [![Joth jquery](https://github-readme-stats.vercel.app/api/pin/?username=octhahq&repo=joth-jquery&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/octhahq/joth-jquery)
 [![Attla disposable](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=disposable&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/disposable)
 [![Laravel HTML minify](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=laravel-html-minify&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/laravel-html-minify)
-
-
