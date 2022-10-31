@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently building the [Octha ecosystem](https://octha.com).
 
-- 💬 Ask me about **PHP, Laravel, Jquery, JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **PHP, Laravel, Jquery, JavaScript, SQL**
 
 - 📫 How to reach me **nicolau@octha.com**
 
