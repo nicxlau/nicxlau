@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Jquery, JavaScript, SQL**
 
-- 📫 How to reach me **nicolau@octha.com**
+- 📫 How to reach me **hi@nicxlau.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
