@@ -28,11 +28,11 @@ Working since 2016 exclusively with Back-end, developing custom solutions, build
 
 ## **🌱 I’m learning**
 <p align="left">
-<a href="https://github.com/topics/redis" target="blank"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="48" height="48"/></a>
 <a href="https://github.com/topics/ts" target="blank"><img src="https://skillicons.dev/icons?i=ts" alt="ts" width="48" height="48"/></a>
 <!-- <a href="https://github.com/topics/vue" target="blank"><img src="https://skillicons.dev/icons?i=vue" alt="vue.js" width="48" height="48"/></a> -->
 <a href="https://github.com/topics/react" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="48" height="48"/></a>
 <a href="https://github.com/topics/angular" target="blank"><img src="https://skillicons.dev/icons?i=angular" alt="angular" width="48" height="48"/></a>
+<a href="https://github.com/topics/redis" target="blank"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="48" height="48"/></a>
 </p>
 
 ## **💻 Languages and Frameworks**
