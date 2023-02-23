@@ -2,10 +2,10 @@
 <h3 align="center">A Web Developer. Open-source enthusiast and security researcher.</h3>
 
 <p align="left">
-  <a href="https://twitch.tv/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="nicxlau" /></a>
-  <a href="https://twitter.com/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nicxlau" /></a>
-  <a href="https://linkedin.com/in/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicxlau" /></a>
-  <a href="https://instagram.com/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nicxlau" /></a>
+  <a href="https://twitch.tv/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="nicxlau" /></a>&nbsp;
+  <a href="https://twitter.com/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nicxlau" /></a>&nbsp;
+  <a href="https://linkedin.com/in/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicxlau" /></a>&nbsp;
+  <a href="https://instagram.com/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nicxlau" /></a>&nbsp;
   <a href="https://dev.to/nicolau" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-212121?style=for-the-badge&logo=dev.to&logoColor=white" alt="nicolau" /></a>
 </p>
 
@@ -77,7 +77,7 @@ Working since 2016 exclusively with Back-end, developing custom solutions, build
 
 ## **📚 Repositories you might like**
 
-[![Pincryp](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=pincryp&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/data-token)
+[![Pincryp](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=pincryp&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/data-token)&nbsp;
 [![Data token](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=data-token&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/data-token)
 <!-- 
 [![Data token](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=data-token&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/data-token)
