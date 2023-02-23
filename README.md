@@ -28,39 +28,39 @@ Working since 2016 exclusively with Back-end, developing custom solutions, build
 
 ## **🌱 I’m learning**
 <p align="left">
-<a href="https://github.com/topics/ts" target="blank"><img src="https://skillicons.dev/icons?i=ts" alt="ts" width="48" height="48"/></a>
+<a href="https://github.com/topics/ts" target="blank"><img src="https://skillicons.dev/icons?i=ts" alt="ts" width="48" height="48"/></a>&nbsp;
 <!-- <a href="https://github.com/topics/vue" target="blank"><img src="https://skillicons.dev/icons?i=vue" alt="vue.js" width="48" height="48"/></a> -->
-<a href="https://github.com/topics/react" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="48" height="48"/></a>
-<a href="https://github.com/topics/angular" target="blank"><img src="https://skillicons.dev/icons?i=angular" alt="angular" width="48" height="48"/></a>
+<a href="https://github.com/topics/react" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/angular" target="blank"><img src="https://skillicons.dev/icons?i=angular" alt="angular" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/redis" target="blank"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="48" height="48"/></a>
 </p>
 
 ## **💻 Languages and Frameworks**
 <p align="left">
-<a href="https://github.com/topics/php" target="blank"><img src="https://skillicons.dev/icons?i=php" alt="php" width="48" height="48"/></a>
-<a href="https://github.com/topics/laravel" target="blank"><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="48" height="48"/></a>
-<a href="https://github.com/topics/java" target="blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="48" height="48"/></a>
-<a href="https://github.com/topics/spring" target="blank"><img src="https://skillicons.dev/icons?i=spring" alt="spring" width="48" height="48"/></a>
-<a href="https://github.com/topics/mysql" target="blank"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="48" height="48"/></a>
-<!-- <a href="https://github.com/topics/redis" target="blank"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="48" height="48"/></a> -->
-<!-- <a href="https://github.com/topics/ts" target="blank"><img src="https://skillicons.dev/icons?i=ts" alt="ts" width="48" height="48"/></a> -->
-<!-- <a href="https://github.com/topics/vue" target="blank"><img src="https://skillicons.dev/icons?i=vue" alt="vue.js" width="48" height="48"/></a> -->
-<!-- <a href="https://github.com/topics/react" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="48" height="48"/></a>
-<a href="https://github.com/topics/angular" target="blank"><img src="https://skillicons.dev/icons?i=angular" alt="angular" width="48" height="48"/></a> -->
-<a href="https://github.com/topics/javascript" target="blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="48" height="48"/></a>
-<a href="https://github.com/topics/bootstrap" target="blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="48" height="48"/></a>
+<a href="https://github.com/topics/php" target="blank"><img src="https://skillicons.dev/icons?i=php" alt="php" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/laravel" target="blank"><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/java" target="blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/spring" target="blank"><img src="https://skillicons.dev/icons?i=spring" alt="spring" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/mysql" target="blank"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="48" height="48"/></a>&nbsp;
+<!-- <a href="https://github.com/topics/redis" target="blank"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="48" height="48"/></a>&nbsp; -->
+<!-- <a href="https://github.com/topics/ts" target="blank"><img src="https://skillicons.dev/icons?i=ts" alt="ts" width="48" height="48"/></a>&nbsp; -->
+<!-- <a href="https://github.com/topics/vue" target="blank"><img src="https://skillicons.dev/icons?i=vue" alt="vue.js" width="48" height="48"/></a>&nbsp; -->
+<!-- <a href="https://github.com/topics/react" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/angular" target="blank"><img src="https://skillicons.dev/icons?i=angular" alt="angular" width="48" height="48"/></a>&nbsp; -->
+<a href="https://github.com/topics/javascript" target="blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/bootstrap" target="blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/jquery" target="blank"><img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="48" height="48"/></a>
 </p>
 
 ## **🛠️ Tools**
 <p align="left">
-<a href="https://github.com/topics/git" target="blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="48" height="48"/></a>
-<a href="https://github.com/topics/vscode" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="48" height="48"/></a>
-<a href="https://github.com/topics/postman" target="blank"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="48" height="48"/></a>
-<a href="https://github.com/topics/docker" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="48" height="48"/></a>
-<a href="https://github.com/topics/verc el" target="blank"><img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="48" height="48"/></a>
+<a href="https://github.com/topics/git" target="blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/vscode" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/postman" target="blank"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/docker" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/verc el" target="blank"><img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/cloudflare" target="blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" width="48" height="48"/></a>
-<!-- <a href="https://github.com/topics/heroku" target="blank"><img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="48" height="48"/></a> -->
+<!-- <a href="https://github.com/topics/heroku" target="blank"><img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="48" height="48"/></a>&nbsp; -->
 <!-- <a href="https://github.com/topics/netlify" target="blank"><img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="48" height="48"/></a> -->
 </p>
 
