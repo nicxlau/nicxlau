@@ -58,7 +58,7 @@ Working since 2016 exclusively with Back-end, developing custom solutions, build
 <a href="https://github.com/topics/vscode" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/postman" target="blank"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/docker" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="48" height="48"/></a>&nbsp;
-<a href="https://github.com/topics/verc el" target="blank"><img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="48" height="48"/></a>&nbsp;
+<a href="https://github.com/topics/vercel" target="blank"><img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/cloudflare" target="blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" width="48" height="48"/></a>
 <!-- <a href="https://github.com/topics/heroku" target="blank"><img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="48" height="48"/></a>&nbsp; -->
 <!-- <a href="https://github.com/topics/netlify" target="blank"><img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="48" height="48"/></a> -->
