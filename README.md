@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="hi.gif" width="35">, I'm Nicolau <br/><img align="right" src="https://komarev.com/ghpvc/?username=nicolauns" alt="nicxlau" /></h1>
-<h3 align="center">A Web Developer. Open-source enthusiast and security researcher.</h3>
+<h3 align="center">A Web Artisan, open-source enthusiast and security researcher.</h3>
 
 
 <p align="left">
@@ -40,7 +40,7 @@ Working since 2016 exclusively with Back-end, developing custom solutions, build
 <a href="https://github.com/topics/redis" target="blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48"/></a>
 </p>
 
-## **💻 Languages and Frameworks**
+## **💻 Languages & Frameworks**
 <p align="left">
 <a href="https://github.com/topics/php" target="blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/laravel" target="blank"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="48" height="48"/></a>&nbsp;
