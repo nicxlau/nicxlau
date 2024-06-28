@@ -30,7 +30,7 @@ Working since 2016 exclusively with Back-end, developing custom solutions, build
 
 <!-- <a href="https://github.com/nicxlau" target="_blank"><img align="right" src="thoughtful.svg" width="320"/></a> -->
 
-## **🌱 I’m learning**
+## **🌱 I’m currently learning**
 <p align="left">
 <a href="https://github.com/topics/csharp" target="blank"><img src="https://skillicons.dev/icons?i=cs" alt="Csharp (c#)" width="48" height="48"/></a>&nbsp;
 <!-- <a href="https://github.com/topics/dotnet" target="blank"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48"/></a>&nbsp; -->
