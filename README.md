@@ -84,12 +84,12 @@ Working since 2016 exclusively with Back-end, developing custom solutions, build
 <a href="https://github.com/topics/notion" target="blank"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="48" height="48"/></a>
 </p>
 
-## **📊 Statistics**
+<!-- ## **📊 Statistics** -->
 <!--<a href="https://github.com/nicxlau" target="blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=nicxlau&theme=github-light&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nicxlau github statistics"/></a><br>
 <a href="https://github.com/nicxlau?tab=repositories" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=nicxlau&show_icons=true&count_private=true&include_all_commits=true" alt="nicxlau github statistics"/></a><br>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicxlau&show_icons=true&layout=compact&hide=html" alt="nicxlau github top langs" /><br>-->
 
-[![nicxlau Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=nicxlau&layout=compact&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d&custom_title=Languages%20experience&langs_count=10)](https://wakatime.com/@nicxlau)
+<!-- [![nicxlau Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=nicxlau&layout=compact&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d&custom_title=Languages%20experience&langs_count=10)](https://wakatime.com/@nicxlau) -->
 
 <!-- [![nicxlau activity graph](https://activity-graph.herokuapp.com/graph?username=nicxlau&theme=react-dark&bg_color=0d1117&title_color=58a6ff&color=8b949e&line=58a6ff&radius=6&custom_title=Activiry%20graph&area_color=000)](https://github.com/nicxlau) -->
 
