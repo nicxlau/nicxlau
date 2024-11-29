@@ -100,7 +100,9 @@ Working since 2016 exclusively with Back-end, developing custom solutions, build
 ## **📚 Repositories you might like**
 
 [![Pincryp](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=pincryp&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/pincryp)&nbsp;
-[![Data token](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=data-token&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/data-token)
+[![Token](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=token&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/token)&nbsp;
+[![Authentic](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=authentic&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/authentic)&nbsp;
+[![Support](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=support&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/support)
 <!-- 
 [![Data token](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=data-token&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/data-token)
 [![Encoded attributes](https://github-readme-stats.vercel.app/api/pin/?username=attla&repo=encoded-attributes&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d)](https://github.com/attla/encoded-attributes)
