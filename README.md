@@ -32,6 +32,7 @@ Working since 2016 exclusively with Back-end, developing custom solutions, build
 
 ## **🌱 I’m currently learning**
 <p align="left">
+<a href="https://github.com/topics/vue" target="blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/aws" target="blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/dynamodb" target="blank"><img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/cloudflare-workers" target="blank"><img src="https://skillicons.dev/icons?i=workers" alt="Cloudflare Workers" width="48" height="48"/></a>&nbsp;
@@ -52,7 +53,6 @@ Working since 2016 exclusively with Back-end, developing custom solutions, build
 <a href="https://github.com/topics/dotnet" target="blank"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/java" target="blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/spring" target="blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="48" height="48"/></a>&nbsp;
-<a href="https://github.com/topics/vue" target="blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/javascript" target="blank"><img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/jquery" target="blank"><img src="https://skillicons.dev/icons?i=jquery" alt="Jquery" width="48" height="48"/></a>&nbsp;
 <a href="https://github.com/topics/bootstrap" target="blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48"/></a>
